@@ -1,2 +1,2 @@
-# statistics_python
+# Statistics_python
 Data Science Python Statistics
